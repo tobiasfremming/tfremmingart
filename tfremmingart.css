@@ -173,7 +173,7 @@ h1 {
 .undertext a {
   padding: 5px;
   font-weight: 400;
-  color: red;
+  color: rgb(4, 1, 37);
   font-size: 20px;
   text-decoration: none;
   border-bottom: 1px solid rgb(0, 0, 0);
