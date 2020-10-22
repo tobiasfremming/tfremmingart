@@ -1,0 +1,63 @@
+body {
+  background: -webkit-linear-gradient(to right, #000000bd, #363a3fa9);
+  background: linear-gradient(to right, #0b0e0ebe, #1c1e2086);
+  background-image: url(img/vinylcollection.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+.homenav {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  top: 0;
+  position: fixed;
+  text-align: center;
+  width: 100vw;
+  background: -webkit-linear-gradient(to right, #ff3c00bd, #00000088);
+  background: linear-gradient(to right, #6b0c0096, #ffd001a2);
+}
+.homenav a {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 20px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+h5 {
+  font-size: 30px;
+}
+.txtbox {
+  text-align: center;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30vh;
+  width: 70vw;
+  background: -webkit-linear-gradient(to right, #000000bd, #0059ffa9);
+  background: linear-gradient(to right, #000000be, #ff000086);
+}
+.txtbox p {
+  font-size: 20px;
+}
+.txtbox a {
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+  color: blanchedalmond;
+  font-size: 25px;
+}
+footer {
+  margin-top: 50px;
+  background: -webkit-linear-gradient(to right, #151718, #006eff);
+  background: linear-gradient(to right, #070808, #56687a);
+  width: right, left;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  color: mistyrose;
+}
+footer a {
+  color: mistyrose;
+}
