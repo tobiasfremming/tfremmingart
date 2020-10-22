@@ -71,6 +71,21 @@ label {
   }
 }
 
+@media only screen and (min-width: 700px) {
+  .nav-phone img {
+    height: 12vw;
+    width: 30vw;
+    margin-left: 35vw;
+  }
+  .label {
+    margin-bottom: 5vw;
+    margin-top: 2;
+  }
+  .menu {
+    margin-top: 5vw;
+  }
+}
+
 .nav-laptop {
   display: none;
   background: -webkit-linear-gradient(to right, #151718bd, #51575fa9);
