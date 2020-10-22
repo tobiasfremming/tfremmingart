@@ -28,6 +28,8 @@ h5 {
   font-size: 30px;
 }
 .txtbox {
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  font-family: sans;
   text-align: center;
   color: white;
   margin-left: auto;
