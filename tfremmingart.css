@@ -51,25 +51,21 @@ label {
   text-align: center;
   display: none;
 }
-.menu a {
+.nav-link {
   text-decoration: none;
   color: rgb(252, 202, 109);
   line-height: 30px;
   display: block;
   border-bottom: 1px solid mistyrose;
 }
-#toggle {
+/* logikken under finn jeg fra kilden som er nevnt i kommentaren inni ".nav-phone"*/
+#openmenu {
   display: none;
 }
-#toggle:checked + .menu {
+#openmenu:checked + .menu {
   display: block;
 }
-
-@media only screen and (max-width: 300px) {
-  .nav-phone img {
-    width: 40vw;
-  }
-}
+/* bruk av kilde = ferdig */
 
 .nav-laptop {
   display: none;
